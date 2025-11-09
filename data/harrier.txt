@@ -1,0 +1,55 @@
+
+#### HUMAN ####
+
+shipyard "Southbound Basics"
+	"Harrier"
+
+ship "Harrier"
+	sprite "ship/harrier"
+	thumbnail "thumbnail/harrier"
+	attributes
+		category "Utility"
+		cost 2010000
+		shields 5000
+		hull 3000
+		"required crew" 3
+		"bunks" 20
+		"mass" 500
+		"drag" 10.5
+		"heat dissipation" .500
+		"fuel capacity" 800
+		"cargo space" 110
+		"outfit space" 480
+		"weapon capacity" 140
+		"engine capacity" 150
+	outfits
+		"Asteroid Scanner"
+		"Cargo Scanner"
+		"D67-TM Shield Generator"
+		"Heavy Laser" 2
+		Hyperdrive
+		"Impala Plasma Steering"
+		"Impala Plasma Thruster"
+		"LP072a Battery Pack"
+		"Meteor Missile" 60
+		"Meteor Missile Launcher" 2
+		"Outfit Scanner"
+		"Plasma Cannon"
+		Ramscoop
+		"S3 Thermionic"
+		"Tactical Scanner"
+	gun 1 -72 "Plasma Cannon"
+	gun -12.5 2 "Heavy Laser"
+	gun -12.5 2 "Meteor Missile Launcher"
+	gun 13 1.5 "Heavy Laser
+	gun 13 1.5 "Meteor Missile Launcher"
+	engine -35.5 84.5
+	engine 0.5 89
+	engine 36 86
+	explode "tiny explosion" 5
+	explode "small explosion" 15
+	explode "medium explosion" 30
+	explode "large explosion" 20
+	"final explode" "final explosion medium"
+	description "The Harrier is a ship that can fulfil most of a captain's needs. As well as acting as a freighter, the Harrier can be used as a mining ship. It can also boast 4 powerful Particle Cannons, making it a sort of glorified Quicksilver. However, despite its size, the Harrier lacks any turrets. In order to counteract this it has been fitted with generous amounts of engine space."
+		

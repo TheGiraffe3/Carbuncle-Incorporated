@@ -1,0 +1,25 @@
+government "Carbuncle Inc."
+	swizzle 9
+	color 0 0 0
+	"player reputation" 10
+	"crew attack" 9999
+	"crew defense" 99999
+	"attitude toward"
+		Alpha -9
+		Deep 6
+		"Free Worlds" 5
+		"Indigenous Lifeform" -1
+		Pirate -1
+		Republic 5
+		Syndicate 5
+	"penalty for"
+		assist 0.4
+		board 1
+		capture 5
+		destroy 5
+	fine 0
+	"friendly hail" deep
+	"friendly disabled hail" "friendly disabled pug"
+	"hostile hail" "hostile deep"
+	"hostile disabled hail" "hostile deep"
+

@@ -1,0 +1,14 @@
+shipyard "Carbuncle Basics"
+	"Harrier"
+
+planet "Carbuncle Inc."
+	shipyard "Tarazed Basics"
+	shipyard "Syndicate Basics"
+	shipyard "Southbound Advanced"
+	shipyard "Carbuncle Basics"
+	shipyard "Carbuncle Advanced"
+	outfitter "Delta V Advanced"
+	outfitter "Basic Outfits" 
+	outfitter "Syndicate Advanced"
+	outfitter "Kraz Advanced"
+
