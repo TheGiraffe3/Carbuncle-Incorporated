@@ -89,7 +89,7 @@ ship "Stentor"
 		"Greyhound Plasma Thruster"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
-	
+	gun 0.5 -45
 	gun -34 -2 "Meteor Missile Launcher"
 	gun 33.5 -2 "Meteor Missile Launcher"
 	engine 0 45.5
