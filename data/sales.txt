@@ -1,11 +1,13 @@
 shipyard "Carbuncle Basics"
 	"Harrier"
 	"Stentor"
+	"Coleps"
 shipyard "Carbuncle Advanced"
 	"Star Commander"
 	"Phage"
 	"Lazarus Class"
-	
+outfitter "Carbuncle Advanced"	
+
 planet "Carbuncle Inc."
 	shipyard "Tarazed Basics"
 	shipyard "Syndicate Basics"
@@ -16,7 +18,7 @@ planet "Carbuncle Inc."
 	outfitter "Basic Outfits" 
 	outfitter "Syndicate Advanced"
 	outfitter "Kraz Advanced"
-
+	outfitter "Carbuncle Advanced"
 
 ### OMNIS ###
 
