@@ -1,0 +1,26 @@
+outfitter "Carbuncle Advanced"
+		"Dream Gun"
+
+outfit "Dream Gun"
+	category "Guns"
+	cost 140000
+	thumbnail "outfit/dream gun"
+	"mass" 30
+	"outfit space" -20
+	"weapon capacity" -20
+	"gun ports" -1
+	weapon
+		sprite "projectile/dream"
+		sound "dream"
+		"hit effect" "dream impact"
+		"inaccuracy" 1
+		"velocity" 10
+		"lifetime" 20
+		"reload" 10
+		"firing energy" 20
+		"firing force" 5
+		"firing heat" 80
+		"slowing damage" 1
+		"shield damage" 50
+		"hull damage" 50
+	description "A seemingly modified Proton Gun, the Dream Gun is a surprisingly small punchy weapon. Its small size is offset by its high energy consumption and high heat production.   For some reason, crews in ships hit by dream projectiles will seemingly be in a dreary or drunk state, and their piloting capabilities highly affected.
