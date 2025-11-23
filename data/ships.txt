@@ -330,9 +330,9 @@ ship "Coleps"
 		"mass" 50
 		"drag" .70
 		"heat dissipation" .90
-		"outfit space" 200
-		"weapon capacity" 50
-		"engine capacity" 60
+		"outfit space" 150
+		"weapon capacity" 40
+		"engine capacity" 40
 		weapon
 			"blast radius" 12
 			"shield damage" 120
