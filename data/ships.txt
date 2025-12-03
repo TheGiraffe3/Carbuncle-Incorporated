@@ -363,13 +363,12 @@ ship "Trident"
 		"weapon capacity" 400
 		"engine capacity" 180
 		"atmosphere scan" 100
-		"cargo scan power" 64
+		"cargo scan power" 81
 		"cargo scan efficiency" 9
-		"outfit scan power" 81
-		"outfit scan efficiency" 16
-		"silent scans"
-		"asteroid scan power" 100
-		"tactical scan power" 100
+		"outfit scan power" 121
+		"outfit scan efficiency" 36
+		"asteroid scan power" 121
+		"tactical scan power" 121
 		weapon
 			"blast radius" 80
 			"shield damage" 800
